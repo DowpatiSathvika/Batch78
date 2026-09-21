@@ -3,7 +3,6 @@ package com.java;
 public class MethodDemo3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 	}
 
